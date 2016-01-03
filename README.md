@@ -1,6 +1,8 @@
 Complete Android Fragment & Activity Lifecycle
 ----------------------------------------------
 
+展现了完整的Android片段和Activity的生命周期，Activity从新建到销毁，构成了一个生命周期，但要知道生命周期并不仅仅只包括这两个。而Android Lifecycle打印出的表图概述了Activity与Fragment在应用内部与外部和用户交互的流。
+
 After struggling with trying to figure out how various pieces fit together,
 I've done some research and put together the complete Android Activity/Fragment
 lifecycle chart. This has two parallel lifecycles (activities and fragments)
